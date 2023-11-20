@@ -1,4 +1,4 @@
-### Hi I am Software Ingenier, I studing a master degree Cloud and High-Performance Computing 👋
+### Hi I am Software Ingenier, I studing a master Cloud and High-Performance Computing 👋
 
 <!--
 **dvaldaliso/dvaldaliso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
